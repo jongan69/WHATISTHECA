@@ -9,7 +9,7 @@ export const SiteData = {
     url: "Bored",
     coinMintAddress: "ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump",
     image: "https://dd.dexscreener.com/ds-data/tokens/solana/9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump.png?key=62bad9",
-
+    imageLocal: "/image.png",
     // Useful
     welcomeMessage: "🚀 Bored 🚀",
     raydiumUrl: "https://raydium.io/swap/?inputMint=sol&outputMint=ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump&referrer=9yA9LPCRv8p8V8ZvJVYErrVGWbwqAirotDTQ8evRxE5N",
