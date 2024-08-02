@@ -16,24 +16,24 @@ export const SiteData = {
     raydiumButtonMessage: "Bored 💸",
 
     // Dex
-    buttonOneTopic: "Bored",
+    buttonOneTopic: "Bored DEX",
     buttonOneMessage: "Bored 🚀",
     buttonOneLink: "https://dexscreener.com/solana/ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump",
 
     // Bonk
-    buttonTwoTopic: "Bored",
+    buttonTwoTopic: "Bored Bonk",
     buttonTwoMessage: "Bored 🐶",
     buttonTwoLink: "https://t.me/bonkbot_bot?start=ref_jyzn2_ca_ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump",
 
     // SolSniffer
-    buttonThreeTopic: "Bored",
+    buttonThreeTopic: "Bored Sniffer",
     buttonThreeMessage: "Bored 🐾",
     buttonThreeLink: "https://solsniffer.com/scanner/ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump",
 
     // X
-    buttonFourTopic: "Bored",
+    buttonFourTopic: "Bored X",
     buttonFourMessage: "Bored 🐦",
-    buttonFourLink: "https://x.com/LIQDWIF_solana",
+    buttonFourLink: "https://x.com/bored_cto",
 
     // Features
     featuresTitle: "Bored",
@@ -48,7 +48,7 @@ export const SiteData = {
 
     // Footer
     footerMessage1: "Bored 🌐",
-    footerMessage1Link: "https://x.com/bored_cto?s=21",
+    footerMessage1Link: "https://x.com/bored_cto",
     footerMessage2: "Bored 🎉",
-    footerMessage2Link: "https://x.com/bored_cto?s=21",
+    footerMessage2Link: "https://x.com/bored_cto",
 };
