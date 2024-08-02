@@ -9,7 +9,7 @@ export const SiteData = {
     url: "https://boredasf.io",
     coinMintAddress: "ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump",
     image: "https://dd.dexscreener.com/ds-data/tokens/solana/9UEzwh5TyS2LWFTcoHhbbsb1yMQtJWabECgYWQyopump.png?key=62bad9",
-    imageLocal: "/images/logo.png",
+    imageLocal: "/image.png",
     // Useful
     welcomeMessage: "🚀 Welcome to Bored ASF! The place where time stands still 🚀",
     raydiumUrl: "https://raydium.io/swap/?inputMint=sol&outputMint=ER3aycyPbigXu53gEnLzP4mqXtkFNtFU2ibWwr6Spump&referrer=9yA9LPCRv8p8V8ZvJVYErrVGWbwqAirotDTQ8evRxE5N",
